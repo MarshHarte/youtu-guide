@@ -1,4 +1,4 @@
-# 悠兔 / YouTu — Official access, VPN clients and proxy guide · 2026-10-08
+# 悠兔 / YouTu — Official access, VPN clients and proxy guide · 2026-10-10
 
 [简体中文](README.md) · [繁體中文](README.zh-TW.md) · **English** · [日本語](README.ja.md) · [한국어](README.ko.md) · [Русский](README.ru.md)
 
@@ -8,7 +8,7 @@ YouTu node selection also involves traffic accounting. Check the current multipl
 
 This edition covers the access list and the main setup checks. The Chinese edition includes the expanded brand-specific walkthrough and questions.
 
-**Address list updated: 2026-10-08 (UTC+8)**
+**Address list updated: 2026-10-10 (UTC+8)**
 
 ## Official addresses
 
